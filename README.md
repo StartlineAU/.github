@@ -1,10 +1,5 @@
-# StartlineAU
+# StartlineAU .github
 
-Startline is Australia's fitness event calendar. We connect athletes with the races, competitions, and communities that push them further.
+Organisation-wide configuration for the StartlineAU GitHub organisation.
 
-## Repos
-
-| Repo | Description |
-| --- | --- |
-| [startline-web-app](https://github.com/StartlineAU/startline-web-app) | The Startline web application — Australia's fitness event calendar for athletes and event organisers. |
-| [startline-mobile-app](https://github.com/StartlineAU/startline-mobile-app) | Native mobile companion to the web app, bringing event discovery, registration, and race-day tools to your phone. |
+This repo holds shared community health files (issue templates, code of conduct, etc.) and the org profile page in `profile/`. See https://github.com/StartlineAU for what we're building.
